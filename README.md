@@ -29,4 +29,12 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/pankj-ctrl/DSA-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/pankj-ctrl/DSA-LeetCode/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/pankj-ctrl/DSA-LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
