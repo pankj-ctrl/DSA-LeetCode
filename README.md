@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/pankj-ctrl/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/pankj-ctrl/DSA-LeetCode/tree/master/0078-subsets) |
 | [0162-find-peak-element](https://github.com/pankj-ctrl/DSA-LeetCode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pankj-ctrl/DSA-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/pankj-ctrl/DSA-LeetCode/tree/master/1901-find-a-peak-element-ii) |
@@ -49,8 +50,13 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/pankj-ctrl/DSA-LeetCode/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/pankj-ctrl/DSA-LeetCode/tree/master/0078-subsets) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/pankj-ctrl/DSA-LeetCode/tree/master/0022-generate-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/pankj-ctrl/DSA-LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
